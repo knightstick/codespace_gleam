@@ -5,7 +5,7 @@
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
-      "GLEAM_VERSION": "v1.0.0"
+      "GLEAM_VERSION": "v1.1.0"
     }
   },
 
